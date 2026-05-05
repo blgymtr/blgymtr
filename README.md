@@ -1,7 +1,4 @@
 I build apps to fix my own problems. Sometimes others need them too.
-
-Ship broker by trade. Indie app maker by night.
-
 ---
 
 ### 🚀 Apps
