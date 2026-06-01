@@ -7,16 +7,11 @@ Currently working on **AI-powered longevity tech** 🧬
 ---
 
 ## Apps
-- **Yük Portföyü** — Maritime toolkit · AppStore
-- **LifeHabit** — Habit tracker · TestFlight
-- **Iron Log** — Workout logger · Building
-- **Vitos** — Health & longevity · Coming soon
+- **Yük Portföyü** — Maritime toolkit for sea brokers · Live on AppStore
+- **LifeHabit** — Habit tracker · TestFlight Process
+- **Iron Log** — Workout logger · Building right now
+- **Vitos** — Health & longevity · TestFlight Process
 
-## Open-source (coming soon)
-`expo-health-starter` · `expo-onboarding-flow` · `react-native-glowing-ui` · `expo-supabase-local-bridge`
-
----
-
-React Native · Expo · TypeScript
+React Native · Expo · TypeScript · SQL · 
 
 𝕏 [@blgymtr](https://twitter.com/blgymtr)
