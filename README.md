@@ -1,16 +1,34 @@
-I build apps to fix my own problems. Sometimes others need them too.
+# Hey 👋
+
+I build apps to solve real problems. Sometimes others need them too.
+
+Building towards **AI-powered longevity tech** 🧬
+
 ---
 
-### 🚀 Apps
+## 🚀 Apps
 
-| App | What it does | Stack | Status |
-|-----|-------------|-------|--------|
-| **Yük Portföyü - Broker App** | Maritime toolkit for ship brokers — IMDG guide, voyage estimation, freight & stowage calculators, charter party templates | React Native · Expo · SQLite · TypeScript | 📱 Active on AppStore |
-| **LifeHabit** | Minimal habit tracker with streaks, stats & smart reminders | React Native · Expo · SQLite · Zustand | 🧪 TestFlight |
-| **Iron Log** | Workout logger with trend charts & body measurements | React Native · Expo · SQLite | 🛠️ Building |
+| App | What it does | Status |
+|-----|--------------|--------|
+| **Yük Portföyü** | Maritime toolkit for ship brokers | 📱 AppStore |
+| **LifeHabit** | Minimal habit tracker | 🧪 TestFlight |
+| **Iron Log** | Workout logger | 🛠️ Building |
+| **Vitos** | AI-driven health & longevity tracker | 🔧 Coming soon |
 
-### 📈 The Plan
+---
 
-Ship small, useful apps. Learn from real users. Iterate fast.
+## 📦 Open-source
 
-If it doesn't solve a real problem, I don't build it.
+Boilerplates from production apps (coming soon):
+- `expo-health-starter`
+- `expo-onboarding-flow`
+- `react-native-glowing-ui`
+- `expo-supabase-local-bridge`
+
+---
+
+## Stack
+`React Native` · `Expo` · `TypeScript` · `Supabase` · `SQLite`
+
+## Connect
+𝕏 [@blgymtr](https://twitter.com/blgymtr)
