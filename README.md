@@ -14,6 +14,6 @@ I decided to any kind of app, and I do it. Then this process repeat again and ag
 - **Vitos** — Health & longevity · TestFlight Process
 - **Veno** - Productivity & Habit Tracker · TestFlight Process
 
-React Native · Expo · TypeScript · SQL · 
+React Native · Expo · TypeScript · SQL · Lua
 
 𝕏 [@blgymtr](https://twitter.com/blgymtr)
