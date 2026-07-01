@@ -2,9 +2,6 @@
 
 I build apps to solve real problems. My philosophy is "think fast, build fast".
 
-I decided to any kind of app, and I do it. Then this process repeat again and again.
-
-
 ---
 
 ## Apps
