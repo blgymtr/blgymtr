@@ -1,17 +1,18 @@
 # Hey 👋
 
-I build apps to solve real problems. My philosophy is "think fast, build fast".
+I'm Bilge — I build products that solve real problems. Ship fast, iterate faster.
 
----
+### 🚀 Live
+- **L-Peptide** — Reconstitution & protocol tracker for the longevity crowd · [l-peptide.com](https://www.l-peptide.com)
+- **Yük Portföyü** — Maritime toolkit for sea brokers · Live on the App Store
 
-## Apps
-- **Yük Portföyü** — Maritime toolkit for sea brokers · Live on AppStore
-- **LifeHabit** — Habit tracker · TestFlight Process
-- **Iron Log** — Workout logger · · TestFlight Process
-- **Vitos** — Health & longevity · TestFlight Process
-- **Veno** - Productivity & Habit Tracker · TestFlight Process-
-- **L-Peptide** - Peptide Tracker - https://www.l-peptide.com/
+### 🛠️ In development
+- **Vitos** — Health & longevity companion
+- **Iron Log** — Workout logger
+- **LifeHabit** — Habit tracker
 
-React Native · Expo · TypeScript · SQL · Lua
+### Stack
+`React` · `React Native / Expo` · `TypeScript` · `Supabase` · `Vercel` · `Lua`
 
-𝕏 [@blgymtr](https://twitter.com/blgymtr)
+### Find me
+𝕏 [@blgymtr](https://x.com/blgymtr) · 📍 Turkey
