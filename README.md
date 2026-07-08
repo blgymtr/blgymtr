@@ -15,4 +15,4 @@ I'm Bilge — I build products that solve real problems. Ship fast, iterate fast
 `React` · `React Native / Expo` · `TypeScript` · `Supabase` · `Vercel` · `Lua`
 
 ### Find me
-𝕏 [@blgymtr](https://x.com/blgymtr) · 📍 Turkey
+𝕏 [@blgymtr](https://x.com/blgymt) · 📍 Turkey
