@@ -1,6 +1,5 @@
 # Hey 👋
-
-I'm Bilge — I build products that solve real problems. Ship fast, iterate faster.
+I build products that solve real problems. Ship fast, iterate faster.
 
 ### 🚀 Live
 - **L-Peptide** — Reconstitution & protocol tracker for the longevity crowd · [l-peptide.com](https://www.l-peptide.com)
