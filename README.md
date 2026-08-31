@@ -7,7 +7,7 @@ I build products that solve real problems. Ship fast, iterate faster.
 - **Hexa Waitlist** - Referral-powered waitlists for indie makers · [Hexa Waitlist](https://hexa-waitlist.vercel.app)
 - **NODA** — Everything is an object: a connected workspace with a block editor, live graph, and canvas · [NODA Note Editor](https://noda-pi.vercel.app)
 ### Stack
-`React` · `React Native / Expo` · `TypeScript` · `Supabase` · `Vercel` · `Lua`
+`React Native, Swift and Expo` · `TypeScript` · `Supabase` · `Vercel` · `Lua`
 
 ### Find me
 𝕏 [@blgymtr](https://x.com/blgymt) · 
