@@ -10,4 +10,4 @@ I build products that solve real problems. Ship fast, iterate faster.
 `React` · `React Native / Expo` · `TypeScript` · `Supabase` · `Vercel` · `Lua`
 
 ### Find me
-𝕏 [@blgymtr](https://x.com/blgymt) · 📍 Turkey
+𝕏 [@blgymtr](https://x.com/blgymt) · 
