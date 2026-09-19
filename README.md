@@ -1,7 +1,4 @@
 # Hey 👋
-I build products that solve real problems. Ship fast, iterate faster.
-### Hi, I'm Bilge
-
 I build and ship small products end to end design, code, payments, distribution, support.
 
 **How I work**
