@@ -1,8 +1,8 @@
 # Hey 👋
 I build and ship small products end to end design, code, payments, distribution, support.
 
-**How I work**
-- .NET / WPF, Lua, C#, Python, JavaScript for Windows, Expo, EAS & Swift for iOS
+**How I work/create/distribute**
+- .NET / WPF, Lua, C#, Rust, Python, JavaScript for Windows, Expo, EAS & Swift for iOS
 - Supabase for auth and licensing, Polar for payments, Cloudflare for DNS and hosting
 - Licensing, apps, webhooks, refunds, support inbox — the boring parts included
 
