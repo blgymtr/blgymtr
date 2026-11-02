@@ -1,6 +1,6 @@
 ```text
 $ whoami
-omer — indie game dev · boomer-shooter lover · rts maker · forex trader
+indie game dev · boomer-shooter lover · rts maker · forex trader
         app builder · content automation 
 
 $ ls ./projects
