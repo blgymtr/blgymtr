@@ -1,9 +1,31 @@
-# Hey 👋
-I build and ship small products end to end design, code, payments, distribution, support.
+```text
+$ whoami
+omer — indie game dev · boomer-shooter lover · rts maker · forex trader
+        app builder · content automation 
 
-**How I work/create/distribute**
-- .NET / WPF, Lua, C#, Rust, Python, JavaScript for Windows, Expo, EAS & Swift for iOS
-- Supabase for auth and licensing, Polar for payments, Cloudflare for DNS and hosting
-- Licensing, apps, webhooks, refunds, support inbox — the boring parts included
+$ ls ./projects
+boomer-shooters/    horror/         strategy/
+tools/              ios-apps/       electron-apps/
+content-pipelines/  trading/
 
-Most product repos are private; this profile holds the public legal pages and releases.
+$ cat ./stack
+engines    godot · unity · unreal · gzdoom · monogame
+languages  c# · c++ · gdscript · python · js/node · rust · lua · swift
+mobile     expo · eas build ·
+desktop    electron · .net / wpf · ffmpeg
+art        blender · pixel art · procedural textures & audio
+
+$ cat ./now
+- first-person shooters with fsm enemy ai and json-driven levels
+- rts prototypes: classes, factions, map + scenario editors
+- standalone tools: video editors, music players, level editors
+- automated video pipelines for history, science and storytelling channels
+
+$ git log --oneline | head -3
+build own tools when the right one doesn't exist
+ship small, ship often, test it yourself
+retro-crunch or nothing
+
+$ status
+building. mostly private. releases soon.
+```
