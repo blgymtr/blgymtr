@@ -24,6 +24,7 @@ $ cat ./now
 $ git log --oneline | head -3
 build own tools when the right one doesn't exist
 ship small, ship often, test it yourself
+trying to create, build, ship
 retro-crunch or nothing
 
 $ status
